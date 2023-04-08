@@ -58,10 +58,14 @@ WeChat：zyd62360056
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
 
 
+## Star History
 
-## Stargazers over time
+[![Star History Chart](https://api.star-history.com/svg?repos=AXYZdong/Signals-and-Systems&type=Date)](https://star-history.com/#AXYZdong/Signals-and-Systems&Date)
 
-[![Stargazers over time](https://starchart.cc/AXYZdong/Signals-and-Systems.svg)](https://starchart.cc/AXYZdong/Signals-and-Systems)
+
+<!---## Stargazers over time--->
+
+<!---[![Stargazers over time](https://starchart.cc/AXYZdong/Signals-and-Systems.svg)](https://starchart.cc/AXYZdong/Signals-and-Systems)--->
 
 
 
