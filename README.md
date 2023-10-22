@@ -45,6 +45,11 @@ Some notes about Signals and Systems.
 
 - [仿真抽样定理与信号恢复](https://github.com/AXYZdong/Signals-and-Systems/blob/main/%E3%80%90%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%E3%80%91Multisim%20%E4%BB%BF%E7%9C%9F%E6%8A%BD%E6%A0%B7%E5%AE%9A%E7%90%86%E4%B8%8E%E4%BF%A1%E5%8F%B7%E6%81%A2%E5%A4%8D.md)
 
+<img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
+
+ **WeChat Pay / Alipay**
+
+ <img src="https://raw.githubusercontent.com/AXYZdong/imageURL/master/pay/202310221718935.png" width = "500" alt="pay" align=center />
 
 ## Contact me
 
@@ -56,6 +61,7 @@ WeChat：zyd62360056
 
 ## LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
+
 
 
 ## Star History
