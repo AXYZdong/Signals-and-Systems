@@ -45,7 +45,10 @@ Some notes about Signals and Systems.
 
 - [仿真抽样定理与信号恢复](https://github.com/AXYZdong/Signals-and-Systems/blob/main/%E3%80%90%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%E3%80%91Multisim%20%E4%BB%BF%E7%9C%9F%E6%8A%BD%E6%A0%B7%E5%AE%9A%E7%90%86%E4%B8%8E%E4%BF%A1%E5%8F%B7%E6%81%A2%E5%A4%8D.md)
 
-<img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
+## Buy Me a Coffee
+如果你觉得本项目帮助到了你，你可以帮作者买一杯果汁表示鼓励🍹 ~~~
+
+<img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"> 
 
  **WeChat Pay / Alipay**
 
