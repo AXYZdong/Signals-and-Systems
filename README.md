@@ -52,7 +52,7 @@ Some notes about Signals and Systems.
 
  **WeChat Pay / Alipay**
 
- <img src="https://raw.githubusercontent.com/AXYZdong/imageURL/master/pay/202310221718935.png" width = "500" alt="pay" align=center />
+ <img src="Pay.png" width = "500" alt="pay" align=center />
 
 ## Contact me
 
