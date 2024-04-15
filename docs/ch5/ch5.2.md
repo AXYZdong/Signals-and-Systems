@@ -1,9 +1,3 @@
->Author：AXYZdong
->自动化专业 工科男
->有一点思考，有一点想法，有一点理性！
->CSDN@AXYZdong，CSDN首发
-
-[toc]
 # 前言
 ==离散系统 z 域分析相关内容==
 
@@ -88,11 +82,7 @@ $$\sum _{i=-\infty}^{k}f(i)\longleftrightarrow \frac{z}{z-1}F(z),max(\alpha,1)<|
 
 <br>
 
-「你可能还想看」系列文章：
-[【信号与系统】笔记合集，你确定不收藏吗？我已经收藏了](https://axyzdong.blog.csdn.net/article/details/105909575)
-
-><strong>如有错误，还请批评指正！ :handshake: :handshake:  :handshake:
-
- <strong> <font color=red><strong>看完就赞，养成习惯！！！^ _ ^ <3 <3 <3</font>
- 码字不易，大家的支持就是我坚持下去的动力。点赞后不要忘了<font color=red>关注</font>我哦！
-
+>本文作者：AXYZdong <br>
+>本文地址：https://axyzdong.github.io/Signals-and-Systems<br>
+>仓库地址：https://github.com/AXYZdong/Signals-and-Systems<br>
+>版权声明：本文为博主原创文章，遵循 [CC 4.0 BY-SA](http://creativecommons.org/licenses/by-sa/4.0/) 版权协议，转载请附上原文出处链接和本声明。

@@ -1,13 +1,3 @@
->Author：AXYZdong 自动化专业 工科男
->**有一点思考，有一点想法，有一点理性！** 
->`定个小小目标，努力成为习惯！在最美的年华遇见更好的自己！`
->**CSDN@AXYZdong，CSDN首发，AXYZdong原创**
->唯一博客更新的地址为： 👉 **[AXYZdong的博客](https://blog.csdn.net/qq_43328313)** 👈
-
-[video(video-npqVeRtF-1593575664146)(type-bilibili)(url-https://player.bilibili.com/player.html?aid=968735596)(image-https://ss.csdn.net/p?http://i1.hdslb.com/bfs/archive/b53ab56c9533315dc76c42ff2bf602d236ef4e9e.png)(title-Multisim这几个使用技巧要知道！！！)]
-@[TOC]
-
-
 ## 一.	实验目的
 1.	观察离散信号频谱，了解其频谱特点。
 2.	验证抽样定理并恢复原信号。
@@ -81,29 +71,9 @@
 
 答：通过低通滤波器会使不同频率点的信号受到不同程度上的放大或缩小，使得合成的信号失真，且低通滤波器的使用会在原有的信号基础上增加一个时移，或是相移，必然使得在对不同频率点的信号合成时信号失真。
 
-\
-更多相关文章：
-
-[【信号与系统】常用信号的分析与基本运算 (Matlab实现)](https://blog.csdn.net/qq_43328313/article/details/105897569)
-
-[【信号与系统】Multisim 仿真信号合成与分解](https://blog.csdn.net/qq_43328313/article/details/106722506)
-
-[【信号与系统】Multisim 仿真连续时间系统的时域分析](https://blog.csdn.net/qq_43328313/article/details/106735174)
-
-[【信号与系统】笔记合集，你确定不收藏吗？我已经收藏了](https://axyzdong.blog.csdn.net/article/details/105909575)
 <br>
 
-【参考文献】
-
-[1]：http://www.doc88.com/p-1837609176728.html
-\
-**&emsp;&emsp;本次的分享就到这里**
-***
-![11](https://img-blog.csdnimg.cn/20200501223603394.gif#pic_center)
-
-好书不厌百回读，熟读自知其中意。将学习成为习惯，用知识改变命运，用博客见证成长，用行动证明努力。
-如果我的博客对你有帮助、如果你喜欢我的博客内容，请 **`“点赞”  “评论” “收藏”`** 一键三连哦！
-**听说 👉 <font color=red> 点赞</font> 👈 的人运气不会太差，每一天都会元气满满呦！**^ _ ^ <3 <3 <3</font>
- **码字不易，大家的支持就是我坚持下去的动力。点赞后不要忘了👉 <font color=red>关注</font> 👈我哦！
- 更多精彩内容请前往 [AXYZdong的博客](https://blog.csdn.net/qq_43328313)**
-<hr><p>如果以上内容有任何错误或者不准确的地方，欢迎在下面 👇 留个言。或者你有更好的想法，欢迎一起交流学习~~~</p> 
+>本文作者：AXYZdong <br>
+>本文地址：https://axyzdong.github.io/Signals-and-Systems<br>
+>仓库地址：https://github.com/AXYZdong/Signals-and-Systems<br>
+>版权声明：本文为博主原创文章，遵循 [CC 4.0 BY-SA](http://creativecommons.org/licenses/by-sa/4.0/) 版权协议，转载请附上原文出处链接和本声明。

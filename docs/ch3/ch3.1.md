@@ -1,8 +1,3 @@
->Author：AXYZdong
->自动化专业 工科男
->有一点思考，有一点想法，有一点理性！
-
-@[TOC]
 # 前言
 ==连续系统的频域分析==相关内容。
 # 一、信号的正交分解
@@ -116,11 +111,8 @@ $$
 
 <br>
 
-「你可能还想看」系列文章：
-[【信号与系统】笔记合集，你确定不收藏吗？我已经收藏了](https://axyzdong.blog.csdn.net/article/details/105909575)
-
-><font color=blue><strong>笔记记得可能有点粗糙，如有错误之处，还请批评指正 ^ _ ^</font>
-
- <strong>如果觉着帮到你的话，<font color=red><strong>点个赞支持一下呢！！！^ _ ^</font>
- 码字不易，大家的支持就是我坚持下去的动力。点赞后不要忘了<font color=red>关注</font>我哦！
+>本文作者：AXYZdong <br>
+>本文地址：https://axyzdong.github.io/Signals-and-Systems<br>
+>仓库地址：https://github.com/AXYZdong/Signals-and-Systems<br>
+>版权声明：本文为博主原创文章，遵循 [CC 4.0 BY-SA](http://creativecommons.org/licenses/by-sa/4.0/) 版权协议，转载请附上原文出处链接和本声明。
  

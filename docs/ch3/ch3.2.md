@@ -1,8 +1,3 @@
->Author：AXYZdong
->自动化专业 工科男
->有一点思考，有一点想法，有一点理性！
-
-@[TOC]
 # 一图看懂傅里叶变换
 ![图片来自@胖福的小木屋](https://img-blog.csdnimg.cn/20200322121931397.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzMzI4MzEz,size_16,color_FFFFFF,t_70#pic_center =600x)
 从时域来看，我们会看到一个近似为矩形的波，而我们知道这个矩形的波可以被差分为一些正弦波的叠加。
@@ -155,12 +150,7 @@ $$</font>
 
 <br>
 
-「你可能还想看」系列文章：
-[【信号与系统】笔记合集，你确定不收藏吗？我已经收藏了](https://axyzdong.blog.csdn.net/article/details/105909575)
-
-\
-\
- <strong>如果觉着帮到你的话，<font color=red><strong>点个赞支持一下呢！！！^ _ ^</font>
- 码字不易，大家的支持就是我坚持下去的动力。点赞后不要忘了<font color=red>关注</font>我哦！
- 
- >说明：部分图片来源于网络，如有侵权请联系我删除。
+>本文作者：AXYZdong <br>
+>本文地址：https://axyzdong.github.io/Signals-and-Systems<br>
+>仓库地址：https://github.com/AXYZdong/Signals-and-Systems<br>
+>版权声明：本文为博主原创文章，遵循 [CC 4.0 BY-SA](http://creativecommons.org/licenses/by-sa/4.0/) 版权协议，转载请附上原文出处链接和本声明。

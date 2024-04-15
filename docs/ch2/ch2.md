@@ -1,8 +1,3 @@
->Author：AXYZdong
->自动化专业 工科男
->有一点思考，有一点想法，有一点理性！
-
-@[TOC]
 # 前言
 以下内容是关于==连续系统的时域分析==，重点难点，考试常考，考前复习。
 
@@ -48,8 +43,8 @@ $$
 ### 2.3、完全响应
 
 <font color =red>$$
-y(t)=y_{ZI}(t)+y_{ZS}(t),[全响应=零输入+零状态]
-$$</font>
+y(t)=y_{ZI}(t)+y_{ZS}(t),[全响应=零输入+零状态]$$
+</font>
 
 ### 2.4、例一($y ''(t) + 6y '(t) + 8y(t) =f(t),t>0$)
 已知某二阶线性连续时间系统的动态方程：
@@ -88,7 +83,7 @@ $(2)零状态响应y_f(t)满足$
 $$
 y _f''(t) + 3y_f'(t) + 2y_f(t) =2 \delta (t)+6 \epsilon(t),并有y_f({0_-}) = y_f({0_+})  = 0\\
 $$
-<font color=red> $由于上式等号右端含有 \delta(t) , 故y _f''(t)含有 \delta(t)，从而y_f'(t)跃变  ,即y'_f({0_+}) \neq y'_f({0_-})\\ 
+<font color=red>$由于上式等号右端含有 \delta(t) , 故y _f''(t)含有 \delta(t)，从而y_f'(t)跃变  ,即y'_f({0_+}) \neq y'_f({0_-})\\ 
 而y_f(t) 在t=0处连续，即y_f({0_-}) = y_f({0_+})=0，上式两边积分有：\\
 [y'_f({0_+}) - y'_f({0_-})]+3[y_f({0_-}) -y_f({0_+})]+2\int_{0-}^{0+}y_f(t) dt=2+6\int_{0-}^{0+} \epsilon(t)dt$</font>
 
@@ -292,12 +287,7 @@ $$
 卷积积分【重点关注】</font>
 <br>
 
-「你可能还想看」系列文章：
-[【信号与系统】笔记合集，你确定不收藏吗？我已经收藏了](https://axyzdong.blog.csdn.net/article/details/105909575)
-
-><strong>上一篇笔记承蒙各位小伙伴的厚爱，访问量蹭蹭上涨，然而我不食言，继续更，希望喜欢。
-如果文章中有哪些知识点<font color=blue>写错</font>的地方，欢迎私信我
-如果文章中哪些知识点<font color=blue>不理解</font>的地方，欢迎私信我
-如果文章中还有哪些需要<font color=blue>补充</font>的地方，欢迎私信我
-
- <strong>码字不易，大家的支持就是我坚持下去的动力。点赞后不要忘了关注我哦！
+>本文作者：AXYZdong <br>
+>本文地址：https://axyzdong.github.io/Signals-and-Systems<br>
+>仓库地址：https://github.com/AXYZdong/Signals-and-Systems<br>
+>版权声明：本文为博主原创文章，遵循 [CC 4.0 BY-SA](http://creativecommons.org/licenses/by-sa/4.0/) 版权协议，转载请附上原文出处链接和本声明。

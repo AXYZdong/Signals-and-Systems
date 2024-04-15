@@ -1,6 +1,6 @@
->Author：AXYZdong
->自动化专业 工科男
->有一点思考，有一点想法，有一点理性！
+>Author：AXYZdong<br>
+>自动化专业 工科男<br>
+>有一点思考，有一点想法，有一点理性！<br>
 >CSDN@AXYZdong，CSDN首发，更多精彩内容请前往 [AXYZdong的博客](https://blog.csdn.net/qq_43328313)
 
 
