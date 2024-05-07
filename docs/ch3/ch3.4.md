@@ -22,7 +22,10 @@ $$h(t)= \frac{1}{2\pi}\int_{-\infty}^{\infty} H(j\omega) e^{j  \omega t}d\omega$
 
 <font color=red>例：某LTI系统的 $H(j\omega)$ 和 $\theta(\omega)$ 如图，若 $f(t)=2+4\cos(5t)+4\cos(10t)$ ，求系统的响应。</font>
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200403175356286.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzMzI4MzEz,size_16,color_FFFFFF,t_70#pic_center =300x )<center><sup><sup>$H(j\omega)$ 和 $\theta(\omega)$ 图像</sup></sup>
+<br>
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200403175356286.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzMzI4MzEz,size_16,color_FFFFFF,t_70#pic_center =300x )
+</p><center><sup><code>$H(j\omega)$ 和 $\theta(\omega)$ 图像</code></sup></center><p></p>
+<br>
 
 解：
 $f(t) 的基波角频率 \Omega = 5rad/s\\
