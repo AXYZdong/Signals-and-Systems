@@ -23,7 +23,7 @@ $(2)$ 双边拉氏逆变换，$f(t)$ ：原函数
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200410175428522.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzMzI4MzEz,size_16,color_FFFFFF,t_70#pic_center =450x)
 
-<center><sup><sup>取值范围不同，变换的结果也不同</sup></sup><center>
+<sup><code>取值范围不同，变换的结果也不同</code></sup>
 
 # 三、单边拉氏变换
 带有初始时刻的信号，双边拉氏变换就转化成单边拉氏变换。
