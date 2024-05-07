@@ -1,7 +1,9 @@
 # 前言
+
 **连续系统的S域分析**
 
 # 一、从傅里叶变换到拉普拉斯变换
+
 傅里叶变换要满足Dirichlet（狄利克雷）条件中的绝对可积，对于某些增长信号，如 $e^{at}(a>0)$ ,它就不存在傅里叶变换。
 
 引入一个衰减因子 $e^{-\sigma t}（\sigma 为任意实数）$ ，使它与 $f(t)$ 相乘，于是 $e^{-\sigma t}f(t)$ 得以收敛。
@@ -9,21 +11,26 @@
 $$
 F_{b}(s)=\int _{-\infty}^{\infty} f(t) e^{-st}dt \tag1
 $$
+
 $$
 f(t)=\frac{1}{2\pi j}\int_{\sigma-\infty}^{\sigma+\infty} F(s)e^{st  }ds \tag2
 $$
+
 $(1)$ 双边拉氏变换，$F_b(s)$ ：象函数
 
 $(2)$ 双边拉氏逆变换，$f(t)$ ：原函数
 
 # 二、拉氏变换收敛域
+<br>
+
 使 $f(t)$ 拉氏变换存在的 $\sigma$ 取值范围称为 $F(s)$ 的收敛域
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200410175346126.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzMzI4MzEz,size_16,color_FFFFFF,t_70#pic_center =450x)
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200410175428522.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzMzI4MzEz,size_16,color_FFFFFF,t_70#pic_center =450x)
 
-<sup><code>取值范围不同，变换的结果也不同</code></sup>
+</p><center><sup><code>取值范围不同，变换的结果也不同</code></sup></center><p></p>
+<br>
 
 # 三、单边拉氏变换
 带有初始时刻的信号，双边拉氏变换就转化成单边拉氏变换。
@@ -50,6 +57,7 @@ $$
 $$
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200410181415254.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzMzI4MzEz,size_16,color_FFFFFF,t_70#pic_center)
+
 # 总结
 拉普拉斯变换与傅里叶变换的基本差别在于:
 
