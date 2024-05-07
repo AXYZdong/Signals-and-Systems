@@ -2,6 +2,7 @@
 ## 1、概念
 信号：物质的运动形式或状态的变化。
 表示：信号常用时间函数（或序列）表示。该函数的图像称为信号的波形。
+
 ## 2、分类
 |分类标准|信号类别|
 |--|--|
@@ -11,6 +12,7 @@
 |以确立与随机分类|确定信号、随机信号|
 |以$f(t)$为实函数或复函数分类|实信号、复信号|
 |以能量是否有限分类|能量有限信号、能量无限信号|
+
 ## 3、周期信号和非周期信号
 ### 3.1、基本概念
 周期信号（period signal）是定义在 (-$\infty$,+$\infty$)区间，每隔一定时间$T$(或整数$N$),按相同规律重复变化的信号。
@@ -22,6 +24,7 @@ $f(t)=f(t+mT),m=0,\pm1,\pm2,...$
 $f(k)=f(k+mN),m=0,\pm1,\pm2,...$
 
 满足上述关系的最小$T$（或整数$N$）称为该信号的周期。不具有周期性的信号称为非周期信号。
+
 ### 3.2、周期$T$求法
 举两个例子，通过例子来说明具体求法。
 <strong>（1）$f_1(t)=\sin2t + \cos3t$        （2）$f_2(t)=\cos2t + \sin \pi t$
@@ -44,6 +47,7 @@ $f(k)=f(k+mN),m=0,\pm1,\pm2,...$
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②正弦序列不一定是周期序列
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③ 两连续周期信号之和不一定是周期信号
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;④两周期序列之和一定是周期序列
+
 # 二、系统
 ## 1、概念
 系统（system）：由若干个相互联系、相互作用的单元组成的具有一定功能的整体。
@@ -51,10 +55,12 @@ $f(k)=f(k+mN),m=0,\pm1,\pm2,...$
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/202003081659002.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzMzI4MzEz,size_16,color_FFFFFF,t_70#pic_center)
 表示：图示、方程（微分方程、差分方程）。
+
 ## 2、分类
 按系统处理信号的形式分类
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200308170155528.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzMzI4MzEz,size_16,color_FFFFFF,t_70#pic_center)
+
 ## 3、线性系统
 ### 3.1概念
 线性(linearity property)：均匀性、叠加性。
@@ -65,6 +71,7 @@ $f(k)=f(k+mN),m=0,\pm1,\pm2,...$
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$\underrightarrow{f_2(t)}$ $H$ $\underrightarrow{y_2(t)}$
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$\underrightarrow{\alpha _1f_1(t)+\alpha _2f_2(t)}$ $H$ $\underrightarrow{\alpha _1y_1(t)+\alpha _2y_2(t)}$
+
 ### 3.2线性系统的判断方法
 <font color=red> 先线性运算，再经系统 = 先经系统，再线性运算</font>
 
@@ -79,6 +86,7 @@ $$
         \to	H	
         \to	H	\lbrace	C_1f_1(t)+C_2f_2(t)	\rbrace
 $$
+
 $$
         \left.
         \begin{array}{l}
@@ -90,6 +98,7 @@ $$
         \to	C
         \to 	C_1H	\lbrace f_1(t)		\rbrace	+	C_2H	\lbrace f_2(t)		\rbrace  
 $$
+
 若$H	\lbrace	C_1f_1(t)+C_2f_2(t)	\rbrace = C_1H	\lbrace f_1(t)		\rbrace	+	C_2H	\lbrace f_2(t)		\rbrace$
 
 则系统$H$为线性系统
@@ -106,11 +115,13 @@ f_1(k)+f_2(k)	\to y_1(k) + y_2(k)\\
 f_1(k)+f_2(k)=y_1(k)+y_2(k)+(k-1) \lbrace y_1(k-1)+y_2(k-1)	\rbrace\\
 $$
 故：方程所描述的系统是线性系统。
+
 ## 4、时不变系统
 ### 4.1概念
 时不变系统：一个系统，在零初始条件下，其输出响应与输入信号施加于系统的时间起点无关，这样的系统称为时不变系统。
 
 时不变性：系统具有上述的性质称为时不变性。
+
 ### 4.2判断方法
 <font color=red> 先时移，再经系统 = 先经系统，再时移</font>
 
@@ -133,6 +144,7 @@ $$
 
 # 三、常用的基本信号
 ## 1、单位阶跃信号（unit step signal）
+
 $$
         \epsilon(t) =
         \begin{cases}
@@ -150,6 +162,7 @@ $$
 $$
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200308190140732.png#pic_center)
+
 ## 2、矩形脉冲信号（门函数）
 $$
         g_\tau(t) =
@@ -160,6 +173,7 @@ $$
 $$
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2020030819061149.png#pic_center)
+
 ## 3、斜坡信号（ramp signal）
 $$
         r(t) =
